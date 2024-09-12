@@ -11,5 +11,8 @@ public class FirstClass {
 		System.out.println("s	=	"	+	s);
 		System.out.printf("z	=	%f",z);
 		System.out.printf("изменения.");
+		int k = 9;
+		System.out.printf("Изменения k = "+ k);
+		
 }
 }
