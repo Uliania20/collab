@@ -13,6 +13,6 @@ public class FirstClass {
 		System.out.printf("изменения.");
 		int k = 9;
 		System.out.printf("Изменения k = "+ k);
-		
+		String q = "Изменения 2 ветки";
 }
 }
